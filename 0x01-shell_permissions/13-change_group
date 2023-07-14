@@ -1,2 +1,2 @@
 #!/bin/bash
-chrgp school hello
+chgrp school 0x01-shell_permissions/hello
